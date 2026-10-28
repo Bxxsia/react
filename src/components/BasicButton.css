@@ -1,0 +1,13 @@
+.basic-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.basic-button:hover {
+  background-color: gray;
+}
